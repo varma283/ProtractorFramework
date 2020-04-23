@@ -13,6 +13,6 @@ describe('demo calculator tests',function(){
 
          expect(result.getText()).toEqual('10');
 
-        browser.sleep(2000);
+        browser.sleep(3000);
     });
 });
